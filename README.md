@@ -8,3 +8,4 @@ The topics I've added till date are as follows:
 3. itertools module in Python `[complete]`
 4. Flexible arguments in Python `[complete]`
 5. Logging in Python `[basic]`
+6. JSON in Python `[work in progress]`
