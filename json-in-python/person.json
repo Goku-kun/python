@@ -1,0 +1,12 @@
+{
+  "name": "Goku",
+  "age": "immortal",
+  "hasChildren": true,
+  "forms": 6,
+  "titles": [
+    "Saiyan",
+    "Ultra Instinct",
+    "Super Saiyan",
+    "Martial Artist"
+  ]
+}
