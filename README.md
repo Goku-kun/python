@@ -7,3 +7,4 @@ The topics I've added till date are as follows:
 2. Collections module in Python `[complete]`
 3. itertools module in Python `[complete]`
 4. Flexible arguments in Python `[complete]`
+5. Logging in Python `[basic]`
