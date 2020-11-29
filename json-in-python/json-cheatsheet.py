@@ -35,4 +35,4 @@ print(goku)
 # READING a .json file and making a python object(dictionary) out of it
 with open("person.json",'r') as file:
     fileJSONread = json.load(file)
-print(fileJSONread)
+print(sorted(fileJSONread.items(), key= lambda x: x[0]))
