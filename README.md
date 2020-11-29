@@ -6,7 +6,6 @@ The topics I've added till date are as follows:
 
 index| name of module | status
 -----|----------------|-----------
-
 1.| Iterators in Python |`[complete]`
 2.| Collections module in Python |`[complete]`
 3.| itertools module in Python |`[complete]`
