@@ -11,4 +11,8 @@ index| name of module | status
 3.| itertools module in Python |`[complete]`
 4.| Flexible arguments in Python |`[complete]`
 5.| Logging in Python |`[basic]`
-6.| JSON in Python |`[work in progress]`
+6.| JSON in Python |`[complete]`
+7.| Decorators in Python | `[complete]`
+8.| Generators in Python | `[complete]`
+9.| Lambda in Python | `[complete]`
+10.| Threading and Multiprocessing in Python | `[Work in Progress]`
