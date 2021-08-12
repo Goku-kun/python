@@ -19,3 +19,4 @@ The topics I've added till date are as follows:
 | 11.   | Object Oriented Python                  | `[complete]`         |
 | 12.   | libraries and modules in Python         | `[complete]`         |
 | 13.   | Mutable Default Arguments in Python     | `[complete]`         |
+| 14.   | Namespaces and Scopes                   | `[Work in Progress]` |
